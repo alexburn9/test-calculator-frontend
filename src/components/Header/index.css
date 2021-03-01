@@ -1,0 +1,8 @@
+.header {
+  background-color: red;
+  height: 60px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
